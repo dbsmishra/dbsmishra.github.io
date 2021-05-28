@@ -1,0 +1,79 @@
+*{
+	margin:0;
+	padding:0;
+		
+}
+.page-container{
+	background: linear-gradient(#98FB98,white);
+	margin:0px 100px;
+	
+}
+.header{
+	backgruond-color:#90EE90;
+}
+.header h1{
+	font-family: bedrock;
+	font-size: 40px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom:0px;
+	color: green;
+	text-shadow: 1px 1px #000000;
+}
+.header h5{
+	margin:0;
+	padding-left:20px;
+	color: chocolate;
+	padding-bottom:20px;
+}
+.log-reg{
+	font-family: bedrock;
+	padding-bottom: 25px;
+}
+.log-reg a{
+	color:#006400;
+	text-decoration: none;
+font-size: 17px;
+padding-left: 20px;
+}
+.main-nav ul{
+	background: olivedrab;
+	list-style: none;
+	padding-left:0;
+}
+.main-nav ul li{
+	display: inline-block;
+	padding: 8px;
+}
+.main-nav ul li a{
+	font-family: bedrock;
+	text-decoration:none;
+	fonr-size: 22px;
+	color: white;
+}
+.main-nav ul li a:hover{
+	background-color: #006400;
+}
+.main-nav ul li a:hover{
+	color: #98FB98;
+}
+.content h1{
+	font-family: bedrock;
+	color: #D2691E;
+	fonr-size: 16px;
+}
+.footer{
+	background-color: #8FBC8F;
+	padding: 10px 10px;
+	text-align: center;
+	fonr-size: ariel;
+	text-decoration: none;
+	color: #556B2F;
+}
+.footer a{
+	color: #556B2F;
+	text-decoration:none;
+}
+.footer a:hover{
+	color: #90EE90;
+}
